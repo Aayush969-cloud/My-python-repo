@@ -1,4 +1,4 @@
-author = 'CodeWithHarry'
+author = 'Aayush'
 
 #Importing The Modules
 import pygame
@@ -28,7 +28,7 @@ screen_height = 600
 gameWindow = pygame.display.set_mode((screen_width, screen_height))
 
 #Game Title
-pygame.display.set_caption("Snake By CodeWithHarry")
+pygame.display.set_caption("Snake By Aayush")
 pygame.display.update()
 
 #Music
